@@ -29,8 +29,8 @@ p {
     color: #ebf7ff;
 }
 .button {
-    border: none;
-    color: #ebf7ff;
+    border: 2px #ebf7ff;
+    color: #030c47;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
@@ -41,7 +41,6 @@ p {
 }
 .aboutMeButton {
     background-color: #030c47;
-    color: #ebf7ff;
     font-family:'Times New Roman', Times, serif;
     border: 2px #ebf7ff;
     border-radius: 8px;
