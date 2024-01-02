@@ -1,0 +1,34 @@
+body {
+    background-color: #beeefa;
+    font-family: 'Caveat Brush';
+}
+h1 {
+    color: #ff5e5e;
+}
+h2 {
+    color: #ff5e5e;
+}
+.centreHeading {
+    margin: auto;
+    border: 2px #ffadad;
+    padding: 30px;
+    background: #ffadad;
+    color: #adfff5;
+}
+.centre {
+    margin: auto;
+}
+p {
+    color: #f0e9c0;    
+}
+/* 
+fallback fonts???
+
+add more colour options later
+ - #c5c0f0
+
+Dark Mode:
+ - B: #292457
+ - H: #aaddfd
+ - P: #f0e9c0
+*/
