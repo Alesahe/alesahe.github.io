@@ -1,6 +1,6 @@
 body {
     background-color: #030c47;
-    font-family: 'Caveat Brush';
+    font-family: 'Caveat';font-size: 22px;
 }
 h1 {
     color: #9ad6fc;
@@ -20,6 +20,8 @@ h2 {
 }
 .centreText {
     text-align:center;
+    margin: auto;
+    width: 50%;
 }
 p {
     color: #ebf7ff;
