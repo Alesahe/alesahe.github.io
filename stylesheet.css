@@ -20,11 +20,11 @@ h2 {
 }
 .centreBox {
     margin: auto;
-    width: 100%;
+    padding: 30px;
+    width: 70%;
 }
 .centreText {
-    margin: auto;
-    width: 100%;
+    text-align: center;
 }
 p {
     color: #ebf7ff;
