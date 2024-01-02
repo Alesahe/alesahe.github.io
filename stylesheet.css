@@ -36,14 +36,14 @@ p {
     display: inline-block;
     font-size: 16px;
     margin: auto;
-    width: 50%;
+    width: 45%;
     cursor: pointer;
 }
 .aboutMeButton {
     background-color: #030c47;
     font-family:'Times New Roman', Times, serif;
-    border: 4px #ebf7ff;
-    /* border-radius: 8px; */
+    border: 4px solid #ebf7ff;
+    border-radius: 8px;
 
 }
 /* 
