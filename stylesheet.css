@@ -1,11 +1,14 @@
 body {
     background-color: #030c47;
-    font-family: 'Caveat';font-size: 22px;
+    font-family: 'Caveat';font-size: 15px;
 }
 h1 {
     color: #9ad6fc;
 }
 h2 {
+    color: #9ad6fc;
+}
+.blueColour {
     color: #9ad6fc;
 }
 .centreHeading {
@@ -19,7 +22,6 @@ h2 {
     margin: auto;
 }
 .centreText {
-    text-align:center;
     margin: auto;
     width: 50%;
 }
