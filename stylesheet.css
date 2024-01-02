@@ -15,12 +15,11 @@ h2 {
     background: #ebf7ff;
     color: #030c47;
 }
-.centre {
+.centreBox {
     margin: auto;
 }
-.welcome {
-    margin: auto;
-    width: 30%;
+.centreText {
+    text-align:center;
 }
 p {
     color: #ebf7ff;
