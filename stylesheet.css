@@ -1,25 +1,29 @@
 body {
-    background-color: #def2ff;
+    background-color: #030c47;
     font-family: 'Caveat Brush';
 }
 h1 {
-    color: #ff5e5e;
+    color: #9ad6fc;
 }
 h2 {
-    color: #ff5e5e;
+    color: #9ad6fc;
 }
 .centreHeading {
     margin: auto;
-    border: 2px #ffadad;
+    border: 2px #ebf7ff;
     padding: 30px;
-    background: #ffadad;
-    color: #def2ff;
+    background: #ebf7ff;
+    color: #030c47;
 }
 .centre {
     margin: auto;
 }
+.welcome {
+    margin: auto;
+    width: 30%;
+}
 p {
-    color: #f0e9c0;    
+    color: #ebf7ff;
 }
 /* 
 fallback fonts???
