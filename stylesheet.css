@@ -42,8 +42,9 @@ p {
 .aboutMeButton {
     background-color: #030c47;
     font-family:'Times New Roman', Times, serif;
-    border: 2px #ebf7ff;
-    border-radius: 8px;
+    border: 4px #ebf7ff;
+    /* border-radius: 8px; */
+
 }
 /* 
 fallback fonts???
