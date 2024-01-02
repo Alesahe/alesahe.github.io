@@ -1,5 +1,5 @@
 body {
-    background-color: #beeefa;
+    background-color: #def2ff;
     font-family: 'Caveat Brush';
 }
 h1 {
@@ -13,7 +13,7 @@ h2 {
     border: 2px #ffadad;
     padding: 30px;
     background: #ffadad;
-    color: #adfff5;
+    color: #def2ff;
 }
 .centre {
     margin: auto;
