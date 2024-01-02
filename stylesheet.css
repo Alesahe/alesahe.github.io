@@ -1,7 +1,3 @@
-body {
-    background-color: #030c47;
-    font-family: 'Caveat';
-}
 h1 {
     color: #9ad6fc;
 }
@@ -20,14 +16,30 @@ h2 {
 }
 .centreBox {
     margin: auto;
-    padding: 30px;
-    width: 70%;
+    width: 50%;
 }
 .centreText {
     text-align: center;
 }
 p {
     color: #ebf7ff;
+}
+.button {
+    border: none;
+    color: #ebf7ff;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.aboutMeButton {
+    background-color: #030c47;
+    color: #ebf7ff;
+    border: 2px #ebf7ff;
+    border-radius: 8px;
 }
 /* 
 fallback fonts???
