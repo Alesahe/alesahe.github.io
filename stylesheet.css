@@ -1,3 +1,7 @@
+body {
+    background-color: #030c47;
+    font-family: 'Times New Roman', Times, serif;
+}
 h1 {
     color: #9ad6fc;
 }
@@ -38,6 +42,7 @@ p {
 .aboutMeButton {
     background-color: #030c47;
     color: #ebf7ff;
+    font-family:'Times New Roman', Times, serif;
     border: 2px #ebf7ff;
     border-radius: 8px;
 }
