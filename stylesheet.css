@@ -31,13 +31,13 @@ p {
     text-decoration: none;
     display: inline-block;
     font-family:'Caveat';
+    font-size: 18px;
     cursor: pointer;
-}
-.aboutMeButton {
     background-color: #030c47;
     border: 4px solid #ebf7ff;
     border-radius: 8px;
 }
+
 /* 
 fallback fonts???
 
