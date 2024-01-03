@@ -30,7 +30,7 @@ p {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
+    font-family:'Caveat';
     cursor: pointer;
 }
 .aboutMeButton {
