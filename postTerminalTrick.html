@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Alesha's little slice of the internet 💙">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title> ❤🧡💛💚💙💜 </title>
+    <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Caveat'>
+    <!-- <base href="" target="_blank">, in case we have images here later on--> 
+    <link rel='stylesheet' href="stylesheet.css"> <!-- remember to update once add folders lol -->
+    <style>
+        body {
+            background-color: #030c47;
+            font-family: 'Caveat';
+        }
+    </style>
+</head>
+
+<body>
+    <div class="centreText">
+        <h1> <strong> 💙 cool terminal tricks i've learnt! 💙 </strong> </h1>
+    </div>
+    <div class="centreBox">
+        <p> 
+            so in the past few weeks i've talked to a few really cool people that i know from informatics and i wanted to implement a bunch of cool terminal tricks. <br> <br>
+            and i wanted to compile a list for myself and others! <br> <br>
+            btw i use wsl so some things might not work/work differently for other operating systems <br> <br>
+            i also don't actually know all that much about computers so like yeah <br> <br>
+        </p
+        <h2> <strong> stuff with cURL </strong> </h2>
+        <p>
+            curl is open source software that allows your device to provide and receive data from a server via a command line interface. it stands for
+            client URL. <br> <br>
+
+            so if your terminal has curl installed, there are a few cool things you can do with it. <br> <br>
+
+            <img src="curlWttrIn.png" alr="curl wttr.in example" style="width:45%;height:45%;">
+            
+            for one, you can check the weather using the command <i> curl wttr.in </i> which comes from <a href="https://wttr.in/"> this! </a>
+            i don't know about you, but personally, i think that that is pretty cool. you can also specify which area you want the weather forecast
+            for, such as <a href="wttr.in/beijing"><i> beijing </i></a> or <a href="wttr.in/paris"> paris</a>!<br> <br>
+
+            something else you can do is to display a funky dancing ascii-parrot! to do this, you just use the command <i> curl parrot.live </i>
+            and <a href="https://twitter.com/i/status/1744818731870523895"> this is what you get. </a> also, if you're boring and hate rainbows, you
+            can get hte same thing but in black and white with <i> curl ascii.live/parrot </i> and someone running with <i> curl ascii.live/forrest. </i>
+            the name looks like forrest gump but i never watched the movie so i wouldn't know... <br> <br>
+
+            anyhow, more cool things are <i> curl ascii.live/can-you-hear-me </i> and <i>  curl -s https://decapi.me/youtube/latest_video?user=[replacethiswithsomechannelname]
+            </i> which i'll leave for you to experience for yourself! <br> <br>
+
+            there are definitely more cURL terminal tricks out there like checking your email but i don't really have enough time to cover all of it 
+            lol <br> <br>
+        </p>
+        
+        <h2> <strong> cowsay and fortune </strong></h2>
+        <p>
+            so cowsay and fortune are two separate things, but it's a lot cooler when you have both together. so cowsay is perl program that, once 
+            installed, can generate ascii art of different animals and objects that can talk. for example, the command <i> cowsay hi </i> will just return
+            you an ascii cow saying hi. additionally, you can customise a bunch of stuff such as the thing speaking (see the full list with <i>cowsay -l </i>)
+            and use <i>cowsay -f [insert name of thing] </i> to change it. <br> <br>
+
+            now, instead of typing out the message for the cow to say, you can use fortune to give it a pregenerated list of quotes that it chooses from 
+            randomly each time! to do this, install fortune then use the command <i>fortune | cowsay. </i> you can even create a custom list of quotes
+            for fortune, which <a href="https://www.ralismark.xyz/interactives/fortune"> this </a> explains very well. also that website is really cool. 
+            just saying. <br> <br>
+
+            anyhow, to go a step further, you could even edit your .bashrc file to display a fortune everytime you open a new terminal! here's mine:
+            <img src="wslCowsay.png" alr="terminal cowsay example" style="width:70%;height:70%"> <br> <br>
+        </p>
+
+        <p>
+            so yeah thats all i wanted to say i hope you found that cool too
+        </p>
+
+    <hr>
+    </div>
+
+    <br>
+
+    <div class="centreBox">
+        <a href="posts.html" style="color: #ebf7ff;"> back to posts </a>
+        <br>
+        <a href="index.html" style="color: #ebf7ff;"> back to home </a>
+    </div>
+</body>
+</html>
