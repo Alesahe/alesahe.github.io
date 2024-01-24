@@ -28,7 +28,7 @@ p {
     color: #ebf7ff;
 }
 i {
-    color: #9ad6fc;
+    color: #9ad6fc !important;
 }
 .button {
     color: #ebf7ff;
