@@ -21,6 +21,9 @@ h3 {
     margin: auto;
     width: 50%;
 }
+small {
+    color: #ebf7ff;
+}
 .centreText {
     text-align: center;
 }
