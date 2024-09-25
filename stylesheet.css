@@ -70,4 +70,22 @@ Dark Mode:
  - B: #292457
  - H: #aaddfd
  - P: #f0e9c0
+
+    - OMG WHEN JAVAAA YAYY
 */
+
+/* just for little museum */
+.leftBox {
+    /* centreBox*/
+    margin: auto;
+    width: 50%;
+
+    text-align: left;
+}
+.rightBox {
+    /* centreBox*/
+    margin: auto;
+    width: 50%;
+
+    text-align: right;
+}
