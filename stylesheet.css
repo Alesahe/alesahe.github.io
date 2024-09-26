@@ -21,6 +21,9 @@ h3 {
     margin: auto;
     width: 50%;
 }
+hr {
+    color: #d3d4db;
+}
 small {
     color: #ebf7ff;
 }
